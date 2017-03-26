@@ -1,0 +1,38 @@
+﻿.customDiv
+{
+    background-color: red;
+    min-height: 50px;
+    font-size:25px;
+    text-align:center;
+    padding:10px 0px 0px 0px;
+    color: white;
+}
+
+.customDiv1
+{
+    background-color: darkgray;
+    min-height: 50px;
+    font-size:medium;
+    text-align:right;
+    padding:10px 20px 0px 0px;
+    margin-right:0px;
+    color: white;
+}
+
+.imageDiv {
+    background-image: url('../images/nobody_m.original.jpg');
+    background-position:center;
+    height: 200px;
+    width: 230px;
+}
+
+.dashboardDiv
+{
+    background-color: black;
+    min-height: 50px;
+    font-size:15px;
+    text-align:left;
+    padding:10px 0px 0px 5px;
+    color: white;
+    border-bottom: 1px solid gray;
+}
